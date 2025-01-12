@@ -1,1 +1,1 @@
-# gpt-40-chatbot-streamlit
+# gpt-4o-chatbot-streamlit
